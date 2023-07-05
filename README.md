@@ -51,4 +51,3 @@ object **Marcos** {
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
-
