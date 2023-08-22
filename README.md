@@ -16,12 +16,12 @@ object **Marcos** {
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-1821x2048-mbxeegff.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"></code>
 <code><img height="30" src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"></code>
+<code><img height="30" src="https://levelupla.io/wp-content/uploads/2020/05/ansiblelogo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 
 
 ## **GitHub Estatísticas**
