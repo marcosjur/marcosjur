@@ -4,12 +4,10 @@ Mais sobre mim
 
 ```kotlin
 object **Marcos** {
- val name = "Marcos Barboza Silva Júnio "
- val acknowledgements = "DevOps"
+ val name = "Marcos Barboza Silva Júnior"
+ val acknowledgements = "DevOps/Cloud Engineering"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Azure Cloud", "AWS", "Terraform", "Docker", "Python") 
-
 }
 ```
 
