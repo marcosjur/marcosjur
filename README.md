@@ -38,9 +38,5 @@ Hi, I'm Marcos Junior, a DevOps Engineer 🚀 from Brazil, I currently work as a
 
 
 <a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
-</a>
-
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosjur&repo=portfolio" />
 </a>
