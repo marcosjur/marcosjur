@@ -32,9 +32,9 @@ Hi, I'm Marcos Junior, a DevOps Engineer 🚀 from Brazil, I currently work as a
 
 
 
-![Marcos Junior github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Marcos Junior github stats](https://github-readme-stats.vercel.app/api?username=marcosjur&show_icons=true&hide_border=true)
 
-⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
+⭐️ From [abhisheknaiidu](https://github.com/marcosjur)
 
 
 <a href="https://github.com/abhisheknaiidu/A-POP">
