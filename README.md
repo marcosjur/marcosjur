@@ -1,9 +1,5 @@
 ### Hey 👋🏽, I'm Marcos Junior
 
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Marcos Junior | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <br />
 <br />
 
